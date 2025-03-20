@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="80%"/></p>
 
-  😄[**huggingface**](https://huggingface.co/tencent)  🐧[**blog**](https://llm.hunyuan.tencent.com/#/blog/hy-t1/)   💬[**demo**](https://huggingface.co/spaces/tencent/Hunyuan-T1)     🖥️ [**api**](https://cloud.tencent.com/apply/p/i2zophus2x8) 
+ <p data-sourcepos="7:3-7:255" dir="auto" align="center" style='text-align:center;'>😄<a href="https://huggingface.co/tencent" rel="nofollow"><strong>huggingface</strong></a>  🐧<a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" rel="nofollow"><strong>blog</strong></a>   💬<a href="https://huggingface.co/spaces/tencent/Hunyuan-T1" rel="nofollow"><strong>demo</strong></a>     🖥️ <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" rel="nofollow"><strong>api</strong></a></p>
 
 强化学习在后训练阶段可以带来新的scaling 范式越来越受到业界关注，随着OpenAI O系列模型和DeepSeek R1的发布，进一步验证了强化学习在此过程中所起到的关键作用。
 
