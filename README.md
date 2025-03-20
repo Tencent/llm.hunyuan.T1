@@ -2,11 +2,9 @@
 
 # **混元-T1: 强化学习驱动，业内首个超大规模混合Mamba推理模型正式发布!**
 
-![image#479px #139px](https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e)
+<p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="80%"/></p>
 
-
-😄[**huggingface**](https://huggingface.co/tencent)  🐧[**blog**](https://llm.hunyuan.tencent.com/#/blog/hy-t1/)   💬[**demo**](https://huggingface.co/spaces/tencent/Hunyuan-T1)     🖥️ [**api**](https://cloud.tencent.com/apply/p/i2zophus2x8)  
-
+  😄[**huggingface**](https://huggingface.co/tencent)  🐧[**blog**](https://llm.hunyuan.tencent.com/#/blog/hy-t1/)   💬[**demo**](https://huggingface.co/spaces/tencent/Hunyuan-T1)     🖥️ [**api**](https://cloud.tencent.com/apply/p/i2zophus2x8) 
 
 强化学习在后训练阶段可以带来新的scaling 范式越来越受到业界关注，随着OpenAI O系列模型和DeepSeek R1的发布，进一步验证了强化学习在此过程中所起到的关键作用。
 
@@ -28,10 +26,10 @@
 
 混元-T1除了在各类公开benchmark、如MMLU-pro、CEval、AIME、ARC-C、Zebra Loigc等中英文知识和竞赛级数学、逻辑推理指标上基本持平或略超R1外，在内部人工体验集评估上也能对标，其中文创指令遵循、文本摘要、agent能力方面略有胜。
 
-![image](https://github.com/user-attachments/assets/c995e560-d683-4066-b533-acc8bb343a87)
 
-![image](https://github.com/user-attachments/assets/128775f0-63d3-4a97-a37b-142e13a7bab4)
+<p align="center"><img src="https://github.com/user-attachments/assets/c995e560-d683-4066-b533-acc8bb343a87" alt="" width="80%"/></p>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/128775f0-63d3-4a97-a37b-142e13a7bab4" alt="" width="80%"/></p>
 
 
 <link rel="stylesheet" href="/llm.hunyuan.T1/assets/css/custom-theme.css">
