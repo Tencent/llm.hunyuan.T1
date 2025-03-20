@@ -26,10 +26,15 @@
 
 混元-T1除了在各类公开benchmark、如MMLU-pro、CEval、AIME、ARC-C、Zebra Loigc等中英文知识和竞赛级数学、逻辑推理指标上基本持平或略超R1外，在内部人工体验集评估上也能对标，其中文创指令遵循、文本摘要、agent能力方面略有胜。
 
+<p align="center"><img src="https://github.com/user-attachments/assets/2fb481b0-b13e-4318-abf5-37e198987562" alt="" width="80%"/></p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/c995e560-d683-4066-b533-acc8bb343a87" alt="" width="80%"/></p>
 
-<p align="center"><img src="https://github.com/Tencent/llm.hunyuan.T1/blob/main/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_2a3ed8bc-6847-4e6c-9b4a-55c737165630.png" alt="" width="80%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/b011a900-8b2b-438c-b7ab-5cb8102b0373" alt="" width="80%"/></p>
+
+
+
+
+
 
 
 <link rel="stylesheet" href="/llm.hunyuan.T1/assets/css/custom-theme.css">
