@@ -1,7 +1,8 @@
 # Tencent Launches a New Generation of Fast-Thinking Model, Hunyuan Turbo S, Which Will Be Gradually Rolled Out on Tencent Yuanbao
 ![image](https://github.com/user-attachments/assets/0cec0da5-0098-4b52-a33c-58b276403849)
 
-😄Hugging Face / 🐧 Blog / 💬 Demo / 🖥️ API
+<p align="center">  😄 <a href="https://huggingface.co/tencent" target="_blank" rel="noopener noreferrer">huggingface</strong></a>&nbsp&nbsp | &nbsp&nbsp🐧 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp💬 <a href="https://huggingface.co/spaces/tencent/Hunyuan-T1" target="_blank" rel="noopener noreferrer">demo</strong></a>&nbsp&nbsp | &nbsp&nbsp🖥️ <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a></ul>
+
 
 Tencent's Hunyuan Turbo S model has been listed on the official website of Tencent Cloud. Developers and enterprise users can call it via API. It has been gradually rolled out on Tencent Yuanbao today for users to use and experience.
 
