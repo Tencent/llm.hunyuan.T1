@@ -1,7 +1,7 @@
 # Reasoning Efficiency Redefined! Meet Tencent’s 'Hunyuan-T1'—The First Mamba-Powered Ultra-Large Model
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="70%"/></p>
-<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️  <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a></ul>
+<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️  <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a>
 
 
 Reinforcement learning has pioneered a new Scaling paradigm in the post-training phase of large language models, a breakthrough that is increasingly attracting attention from the industry. With the successive release of OpenAI's O-series models and DeepSeek R1, the excellent performance demonstrated by the models fully proves the crucial role of reinforcement learning in the optimization process
