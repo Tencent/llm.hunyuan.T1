@@ -5,21 +5,19 @@
 <p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️  <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a></ul>
 
 
-Reinforcement learning in the post-training phase is increasingly attracting industry attention as it can bring new scaling paradigms. With the release of OpenAI's O-series models and DeepSeek R1, the crucial role that reinforcement learning plays in this process has been further verified.
+Reinforcement learning has pioneered a new Scaling paradigm in the post-training phase of large language models, a breakthrough that is increasingly attracting attention from the industry. With the successive release of OpenAI's O-series models and DeepSeek R1, the excellent performance demonstrated by the models fully proves the crucial role of reinforcement learning in the optimization process.
 
-In mid-February this year, the Hunyuan team launched the Hunyuan T1-Preview (Hunyuan-Thinker-1-Preview) reasoning model, based on the medium-scale Hunyuan foundation, on Tencent Yuanbao APP, bringing users an ultimate and fast deep-thinking experience.
+In mid-February this year, the Hunyuan team launched the Hunyuan T1-Preview (Hunyuan-Thinker-1-Preview) reasoning model based on the medium-scale Hunyuan base on the Tencent Yuanbao APP, bringing users an ultimate and rapid in-depth thinking experience.
 
-Today, we are very pleased to announce that the deep-thinking model of the Hunyuan large model series has been successfully upgraded to the official version of Hunyuan-T1. This model is based on TurboS, the fast-thinking base, the world's first super-large-scale Hybrid-Transformer-Mamba MoE large model released by us at the beginning of March. Through large-scale post-training, its reasoning ability has been significantly expanded, and it has been further aligned with human preferences.
+Today, we are very pleased to announce that the in-depth thinking model of the Hunyuan large model series has been successfully upgraded to the Hunyuan-T1 official version. This model is based on the TurboS fast-thinking base, the world's first ultra-large-scale Hybrid-Transformer-Mamba MoE large model released by us at the beginning of March. Through large-scale post-training, its reasoning ability has been significantly expanded and further aligned with human preferences.
 
-Compared with the previous T1-preview model, Hunyuan-T1 shows a significant improvement in overall performance. It is a powerful reasoning model that can be compared with DeepSeek R1 and has a significantly faster decoding speed.
+Compared with the previous T1-preview model, Hunyuan-T1 has shown a significant overall performance improvement and is a leading cutting-edge strong reasoning large model in the industry.
+Based on TurboS, T1 shows unique advantages in the direction of in-depth reasoning. TurboS's long-text capture ability helps Turbo-S effectively solve the problems of context loss and long-distance information dependence often encountered in long-text reasoning. Secondly, its Mamba architecture specifically optimizes the processing ability of long sequences. Through an efficient computing method, it can ensure the ability to capture long-text information while significantly reducing the consumption of computing resources. Under the same deployment conditions, the decoding speed is 2 times faster.
 
-Based on TurboS, T1 shows unique advantages in the direction of deep reasoning. TurboS's long-text capture ability helps T1 effectively solve problems such as context loss and long-distance information dependency often encountered in long-text reasoning. Secondly, its Mamba architecture is specifically optimized for processing long sequences. Through an efficient computing method, it can ensure the ability to capture long-text information while significantly reducing the consumption of computing resources, with a decoding speed 2 times faster under the same deployment conditions.
+In the post-training phase of the model, we invested 96.7% of our computing power in reinforcement learning training, focusing on improving pure reasoning ability and optimizing alignment with human preferences.
+We collected world science and reasoning problems, covering mathematics/logic reasoning/science/code, etc. These data sets cover everything from basic mathematical reasoning to complex scientific problem solving. Combined with ground-truth real feedback, we ensure that the model can demonstrate excellent capabilities when facing various reasoning tasks.
 
-During the model training phase, 96.7% of our computing power was invested in reinforcement learning training, focusing on improving pure reasoning ability and optimizing alignment with human preferences.
-
-We collected world-class science problems covering mathematics, logical reasoning, science, code, etc. These datasets cover everything from basic mathematical reasoning to complex scientific problem-solving. Combined with real feedback from ground-truth, we ensured that the model could demonstrate excellent capabilities when facing various reasoning tasks.
-
-In terms of the training scheme, we adopted the curriculum learning approach to gradually increase the difficulty of the data and expand the model's context length step by step, enabling the model to improve its reasoning ability while learning to use tokens efficiently for reasoning.
+In terms of training plans, we adopted a curriculum learning approach to gradually increase data difficulty while expanding the model's context length in a step-by-step manner, enabling the model to improve its reasoning ability while learning to use tokens efficiently for reasoning.
 
 Regarding the training strategy, we referred to classic reinforcement learning strategies such as data replay and periodic policy resetting, which significantly improved the long-term stability of model training by over 50%. During the alignment with human preferences phase, we adopted a unified reward system feedback scheme of self-rewarding (based on an early version of T1-preview to comprehensively evaluate and score the model's output) + reward mode, guiding the model to self-improve. The model shows richer content details and more efficient information in its responses.
 
@@ -29,6 +27,9 @@ In addition to achieving comparable or slightly better results than R1 on variou
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/f04fef05-6de8-49aa-ac14-df9a755145a9" alt="" width="80%"/></p>
+<p align="center"><span style="color: #999999; font-size: 9px;">Note: The evaluation metrics of other models in the table are from official evaluation results. For the parts not included in the official evaluation results, they are from the results of the Hunyuan internal evaluation platform.
+
+</span>
 
 
 
