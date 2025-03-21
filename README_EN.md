@@ -1,3 +1,4 @@
+
 # Reasoning Efficiency Redefined! Meet Tencent’s 'Hunyuan-T1'—The First Mamba-Powered Ultra-Large Model
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="70%"/></p>
@@ -24,10 +25,10 @@ Regarding the training strategy, we referred to classic reinforcement learning s
 
 In addition to achieving comparable or slightly better results than R1 on various public benchmarks such as MMLU-pro, CEval, AIME, ARC-C, Zebra Logic, and other Chinese and English knowledge and competition-level math and logical reasoning indicators, Hunyuan-T1 also performs on par with R1 in internal human evaluation datasets. It has a slight edge in cultural and creative instruction following, text summarization, and agent capabilities.
 
-<p align="center"><img src="https://github.com/user-attachments/assets/2fb481b0-b13e-4318-abf5-37e198987562" alt="" width="80%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1c5d1fd8-0ee7-4f96-a1ff-aa4eaea45653" alt="" width="80%"/></p>
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b011a900-8b2b-438c-b7ab-5cb8102b0373" alt="" width="80%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/f04fef05-6de8-49aa-ac14-df9a755145a9" alt="" width="80%"/></p>
 
 
 
