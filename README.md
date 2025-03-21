@@ -4,7 +4,7 @@
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="60%"/></p>
-<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/Blog/hy-t1/" target="_blank" rel="noopener noreferrer"><strong>blog</strong></a>&nbsp;&nbsp; | &nbsp&nbsp 🔗  <a href="https://cloud.tencent.com/product/hunyuan" target="_blank" rel="noopener noreferrer"><strong>api</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp; 📝  <a href="https://cloud.tencent.com/apply/p/jevgtnvuh3" target="_blank" rel="noopener noreferrer"><strong>联系我们</strong></a> </p>
+<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/Blog/hy-t1/" target="_blank" rel="noopener noreferrer"><strong>blog</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp; 🔗  <a href="https://cloud.tencent.com/product/hunyuan" target="_blank" rel="noopener noreferrer"><strong>api</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp; 📝  <a href="https://cloud.tencent.com/apply/p/jevgtnvuh3" target="_blank" rel="noopener noreferrer"><strong>联系我们</strong></a> </p>
 
 
 
