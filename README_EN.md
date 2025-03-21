@@ -20,7 +20,7 @@ In terms of training plans, we adopted a curriculum learning approach to gradual
 
 Regarding the training strategy, we referred to classic reinforcement learning strategies such as data replay and periodic policy resetting, which significantly improved the long-term stability of model training by over 50%. During the alignment with human preferences phase, we adopted a unified reward system feedback scheme of self-rewarding (based on an early version of T1-preview to comprehensively evaluate and score the model's output) + reward mode, guiding the model to self-improve. The model shows richer content details and more efficient information in its responses.
 
-In addition to achieving comparable or slightly better results than R1 on various public benchmarks such as MMLU-pro, CEval, AIME, ARC-C, Zebra Logic, and other Chinese and English knowledge and competition-level math and logical reasoning indicators, Hunyuan-T1 also performs on par with R1 in internal human evaluation datasets. It has a slight edge in cultural and creative instruction following, text summarization, and agent capabilities.
+In addition to achieving comparable or slightly better results than R1 on various public benchmarks such as MMLU-pro, CEval, AIME, Zebra Logic, and other Chinese and English knowledge and competition-level math and logical reasoning indicators, Hunyuan-T1 also performs on par with R1 in internal human evaluation datasets. It has a slight edge in cultural and creative instruction following, text summarization, and agent capabilities.
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/f04fef05-6de8-49aa-ac14-df9a755145a9" alt="" width="80%"/></p>
