@@ -1,11 +1,10 @@
-
 # Reasoning Efficiency Redefined! Meet Tencent’s 'Hunyuan-T1'—The First Mamba-Powered Ultra-Large Model
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="70%"/></p>
 <p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️  <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a></ul>
 
 
-Reinforcement learning has pioneered a new Scaling paradigm in the post-training phase of large language models, a breakthrough that is increasingly attracting attention from the industry. With the successive release of OpenAI's O-series models and DeepSeek R1, the excellent performance demonstrated by the models fully proves the crucial role of reinforcement learning in the optimization process.
+Reinforcement learning has pioneered a new Scaling paradigm in the post-training phase of large language models, a breakthrough that is increasingly attracting attention from the industry. With the successive release of OpenAI's O-series models and DeepSeek R1, the excellent performance demonstrated by the models fully proves the crucial role of reinforcement learning in the optimization process
 
 In mid-February this year, the Hunyuan team launched the Hunyuan T1-Preview (Hunyuan-Thinker-1-Preview) reasoning model based on the medium-scale Hunyuan base on the Tencent Yuanbao APP, bringing users an ultimate and rapid in-depth thinking experience.
 
