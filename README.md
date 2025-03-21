@@ -26,7 +26,7 @@
 
 在训练策略上，我们参考了经典强化学习的数据回放/阶段性策略重置等策略，显著提升了模型训练长期稳定性50%以上。在对齐人类偏好阶段，我们采用了self-rewarding（基于T1- preview 的早期版本对模型输出进行综合评价、打分） + reward mode 的统一奖励系统反馈方案，指导模型进行自我提升，模型在答复中展现了更丰富的内容细节以及更高效的信息。
 
-混元-T1除了在各类公开benchmark、如MMLU-pro、CEval、AIME、ARC-C、Zebra Loigc等中英文知识和竞赛级数学、逻辑推理指标上基本持平或略超R1外，在内部人工体验集评估上也能对标，其中文创指令遵循、文本摘要、agent能力方面略有胜。
+混元-T1除了在各类公开benchmark、如MMLU-pro、CEval、AIME、Zebra Loigc等中英文知识和竞赛级数学、逻辑推理指标上基本持平或略超R1外，在内部人工体验集评估上也能对标，其中文创指令遵循、文本摘要、agent能力方面略有胜。
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/9cff8edd-d75d-4a60-81eb-3a0b8dc64aec" alt="" width="80%"/></p>
