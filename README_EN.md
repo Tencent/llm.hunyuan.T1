@@ -22,10 +22,11 @@ Regarding the training strategy, we referred to classic reinforcement learning s
 
 In addition to achieving comparable or slightly better results than R1 on various public benchmarks such as MMLU-pro, CEval, AIME, ARC-C, Zebra Logic, and other Chinese and English knowledge and competition-level math and logical reasoning indicators, Hunyuan-T1 also performs on par with R1 in internal human evaluation datasets. It has a slight edge in cultural and creative instruction following, text summarization, and agent capabilities.
 
+
+<p align="center"><img src="https://github.com/user-attachments/assets/f04fef05-6de8-49aa-ac14-df9a755145a9" alt="" width="80%"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/1c5d1fd8-0ee7-4f96-a1ff-aa4eaea45653" alt="" width="80%"/></p>
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/f04fef05-6de8-49aa-ac14-df9a755145a9" alt="" width="80%"/></p>
 <p align="center"><span style="color: #999999; font-size: 9px;">Note: The evaluation metrics of other models in the table are from official evaluation results. For the parts not included in the official evaluation results, they are from the results of the Hunyuan internal evaluation platform.
 
 </span>
