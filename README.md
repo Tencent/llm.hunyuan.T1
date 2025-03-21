@@ -3,7 +3,7 @@
 # **混元-T1: 强化学习驱动，业内首个超大规模混合Mamba推理模型正式发布!**
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cb728f58-d29a-4b5a-8047-d97481c6607e" alt="" width="70%"/></p>
-<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️ <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a></ul>
+<p align="center"> 😄 <a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1/" target="_blank" rel="noopener noreferrer">blog</strong></a>&nbsp&nbsp | &nbsp&nbsp 🖥️ <a href="https://cloud.tencent.com/apply/p/i2zophus2x8" target="_blank" rel="noopener noreferrer">api</strong></a>
 
 
 强化学习在大语言模型的后训练阶段开创了新的Scaling范式，这一突破正日益受到业界重视。随着OpenAI O系列模型与DeepSeek R1的相继发布，模型展现的卓越性能充分证明了强化学习在优化过程中的关键作用。
