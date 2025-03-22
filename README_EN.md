@@ -24,6 +24,10 @@ Regarding the training strategy, we referred to classic reinforcement learning s
 
 In addition to achieving comparable or slightly better results than R1 on various public benchmarks such as MMLU-pro, CEval, AIME, Zebra Logic, and other Chinese and English knowledge and competition-level math and logical reasoning indicators, Hunyuan-T1 also performs on par with R1 in internal human evaluation datasets. It has a slight edge in cultural and creative instruction following, text summarization, and agent capabilities.
 
+From the perspective of comprehensive evaluation metrics, the overall performance of Hunyuan-T1 can be on a par with first-class cutting-edge inference models. In terms of comprehensive ability evaluation, T1 ranks second only to O1 on MMLU-PRO, with a high score of 87.2. This test set covers questions from 14 fields such as humanities, social sciences, and science and engineering, mainly testing the model's memory and understanding of extensive knowledge. Additionally, there is GPQA-diamond, which focuses on professional domain knowledge and complex scientific reasoning, mainly including doctoral-level difficult problems in physics, chemistry, and biology. T1 achieved a score of 69.3.
+
+In the field of science and engineering, we tested scenarios that require strong reasoning abilities, such as coding, mathematics, and logical reasoning. In the code evaluation of LiveCodeBench, T1 reached a score of 64.9. Meanwhile, T1 also performs excellently in mathematics. Especially on MATH-500, it achieved an excellent score of 96.2, closely following DeepSeek R1, demonstrating T1's comprehensive ability in solving math problems. Besides, T1 has shown very strong adaptability in multiple alignment tasks, instruction-following tasks, and tool utilization tasks. For example, T1 achieved a score of 91.9 in the ArenaHard task.
+
 
 <p align="center"><img src="https://github.com/ronggan123/image/blob/main/image2.png?raw=true" alt="" width="80%"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/1c5d1fd8-0ee7-4f96-a1ff-aa4eaea45653" alt="" width="80%"/></p>
