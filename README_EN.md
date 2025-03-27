@@ -30,8 +30,9 @@ From the perspective of comprehensive evaluation metrics, the overall performanc
 
 In the field of science and engineering, we tested scenarios that require strong reasoning abilities, such as coding, mathematics, and logical reasoning. In the code evaluation of  **LiveCodeBench** , T1 reached a score of **64.9**. Meanwhile, T1 also performs excellently in mathematics. Especially on **MATH-500**, it achieved an excellent score of  **96.2**, closely following DeepSeek R1, demonstrating T1's comprehensive ability in solving math problems. Besides, T1 has shown very strong adaptability in multiple alignment tasks, instruction-following tasks, and tool utilization tasks. For example, T1 achieved a score of **91.9 **in the** ArenaHard** task.
 
-<p align="center"><img src="https://github.com/ronggan123/image/blob/main/image2.png?raw=true" alt="" width="80%"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/1c5d1fd8-0ee7-4f96-a1ff-aa4eaea45653" alt="" width="80%"/></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image3.png" alt="" width="80%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image4.png" alt="" width="80%"/></p>
 
 
 <p align="center"><span style="color: #999999; font-size: 9px;">Note: The evaluation metrics of other models in the table are from official evaluation results. For the parts not included in the official evaluation results, they are from the results of the Hunyuan internal evaluation platform.
