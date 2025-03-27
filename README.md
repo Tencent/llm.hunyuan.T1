@@ -33,8 +33,8 @@
 理科方面，我们测试了代码/数学/逻辑推理等注重强推理能力的场景，在**LiveCodeBench**的代码评测中，T1达到了**64.9**分。同时，T1在数学方面也表现卓越，尤其是在**MATH-500**上，取得了**96.2**分的好成绩，紧跟DeepSeek R1，显示出T1在解决数学题方面的综合能力。除此之外，T1还在多项对齐任务、指令跟随任务和工具利用任务中展现出了非常强的适应性。例如，在**ArenaHard**任务中，T1拿下了**91.9**分的成绩。 
 
 
-<p align="center"><img src="https://github.com/ronggan123/image/blob/main/image2.png?raw=true" alt="" width="80%"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/ae205c7c-7748-485a-a876-5d491a739e23" alt="" width="80%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image3.png" alt="" width="80%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image4.png" alt="" width="80%"/></p>
 
 <p align="center"><span style="color: #999999; font-size: 9px;">注：表格中，其它模型的评测指标来自官方评测结果，官方评测结果中没有的部分来自混元内部评测平台结果</span>
 
