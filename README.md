@@ -34,7 +34,7 @@
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image3.png" alt="" width="80%"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image4.png" alt="" width="80%"/></p>
+<p align="center"><img src="https://github.com/ronggan123/image/blob/main/image6.png?raw=true" " width="80%"/></p>
 
 <p align="center"><span style="color: #999999; font-size: 9px;">注：表格中，其它模型的评测指标来自官方评测结果，官方评测结果中没有的部分来自混元内部评测平台结果</span>
 
