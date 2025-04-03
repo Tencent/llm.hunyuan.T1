@@ -32,7 +32,7 @@ In the field of science and engineering, we tested scenarios that require strong
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image3.png" alt="" width="80%"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/ronggan123/image/refs/heads/main/image4.png" alt="" width="80%"/></p>
+<p align="center"><img src="https://github.com/ronggan123/image/blob/main/image6.png?raw=true" alt="" width="80%"/></p>
 
 
 <p align="center"><span style="color: #999999; font-size: 9px;">Note: The evaluation metrics of other models in the table are from official evaluation results. For the parts not included in the official evaluation results, they are from the results of the Hunyuan internal evaluation platform.
